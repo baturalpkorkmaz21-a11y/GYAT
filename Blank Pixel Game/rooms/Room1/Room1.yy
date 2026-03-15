@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"GYAT1",
-    "path":"GYAT1.yyp",
+    "name":"Blank Pixel Game",
+    "path":"Blank Pixel Game.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
