@@ -22,7 +22,7 @@
   "name":"room_menu",
   "parent":{
     "name":"rooms",
-    "path":"folders/Sprites/rooms.yy",
+    "path":"folders/rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

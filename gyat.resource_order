@@ -2,9 +2,9 @@
   "FolderOrderSettings":[
     {"name":"fonts","order":4,"path":"folders/fonts.yy",},
     {"name":"menu","order":5,"path":"folders/menu.yy",},
-    {"name":"room sprites","order":2,"path":"folders/room sprites.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"rooms","order":11,"path":"folders/Sprites/rooms.yy",},
+    {"name":"room sprites","order":3,"path":"folders/room sprites.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"rooms","order":6,"path":"folders/rooms.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_button_parent","order":2,"path":"objects/obj_button_parent/obj_button_parent.yy",},
@@ -15,8 +15,8 @@
     {"name":"room_menu","order":2,"path":"rooms/room_menu/room_menu.yy",},
     {"name":"spr_button","order":4,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"Spr_Carl_down","order":4,"path":"sprites/Spr_Carl_down/Spr_Carl_down.yy",},
-    {"name":"Spr_Carl_left_stop","order":7,"path":"sprites/Spr_Carl_left_stop/Spr_Carl_left_stop.yy",},
-    {"name":"Spr_Carl_right_stop","order":6,"path":"sprites/Spr_Carl_right_stop/Spr_Carl_right_stop.yy",},
+    {"name":"Spr_Carl_left","order":7,"path":"sprites/Spr_Carl_left/Spr_Carl_left.yy",},
+    {"name":"Spr_Carl_right","order":6,"path":"sprites/Spr_Carl_right/Spr_Carl_right.yy",},
     {"name":"Spr_Carl_up","order":3,"path":"sprites/Spr_Carl_up/Spr_Carl_up.yy",},
     {"name":"Spr_Carl_walking_down","order":10,"path":"sprites/Spr_Carl_walking_down/Spr_Carl_walking_down.yy",},
     {"name":"Spr_Carl_walking_left","order":8,"path":"sprites/Spr_Carl_walking_left/Spr_Carl_walking_left.yy",},
