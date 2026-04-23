@@ -3,8 +3,8 @@
     {"name":"fonts","order":4,"path":"folders/fonts.yy",},
     {"name":"menu","order":5,"path":"folders/menu.yy",},
     {"name":"room sprites","order":3,"path":"folders/room sprites.yy",},
-    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
     {"name":"rooms","order":6,"path":"folders/rooms.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_button_parent","order":2,"path":"objects/obj_button_parent/obj_button_parent.yy",},
