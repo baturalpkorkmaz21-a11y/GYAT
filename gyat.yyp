@@ -15,7 +15,7 @@
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"room sprites","folderPath":"folders/room sprites.yy","name":"room sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"rooms","folderPath":"folders/Sprites/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
     {"link":"io.gamemaker.sdfshaders-1.0.0","name":"io.gamemaker.sdfshaders-1.0.0","path":"io.gamemaker.sdfshaders-1.0.0.yyp",},
@@ -26,7 +26,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.221",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"gyat",
   "resources":[
@@ -43,8 +43,8 @@
     {"id":{"name":"Spr_Agent_First_Boss","path":"sprites/Spr_Agent_First_Boss/Spr_Agent_First_Boss.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"Spr_Carl_down","path":"sprites/Spr_Carl_down/Spr_Carl_down.yy",},},
-    {"id":{"name":"Spr_Carl_left_stop","path":"sprites/Spr_Carl_left_stop/Spr_Carl_left_stop.yy",},},
-    {"id":{"name":"Spr_Carl_right_stop","path":"sprites/Spr_Carl_right_stop/Spr_Carl_right_stop.yy",},},
+    {"id":{"name":"Spr_Carl_left","path":"sprites/Spr_Carl_left/Spr_Carl_left.yy",},},
+    {"id":{"name":"Spr_Carl_right","path":"sprites/Spr_Carl_right/Spr_Carl_right.yy",},},
     {"id":{"name":"Spr_Carl_up","path":"sprites/Spr_Carl_up/Spr_Carl_up.yy",},},
     {"id":{"name":"Spr_Carl_walking_down","path":"sprites/Spr_Carl_walking_down/Spr_Carl_walking_down.yy",},},
     {"id":{"name":"Spr_Carl_walking_left","path":"sprites/Spr_Carl_walking_left/Spr_Carl_walking_left.yy",},},

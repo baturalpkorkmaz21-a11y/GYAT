@@ -74,9 +74,9 @@ var l14E803E6_0;l14E803E6_0 = keyboard_check(vk_up);if (l14E803E6_0){	/// @D
 	/// @DnDHash : 46E50CD4
 	/// @DnDParent : 14E803E6
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "Spr_Carl_up"
-	/// @DnDSaveInfo : "spriteind" "Spr_Carl_up"
-	sprite_index = Spr_Carl_up;
+	/// @DnDArgument : "spriteind" "Spr_Carl_walking_up"
+	/// @DnDSaveInfo : "spriteind" "Spr_Carl_walking_up"
+	sprite_index = Spr_Carl_walking_up;
 	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
@@ -101,9 +101,9 @@ var l3EAAB2DC_0;l3EAAB2DC_0 = keyboard_check(vk_down);if (l3EAAB2DC_0){	/// 
 	/// @DnDHash : 7E08072D
 	/// @DnDParent : 3EAAB2DC
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "Spr_Carl_down"
-	/// @DnDSaveInfo : "spriteind" "Spr_Carl_down"
-	sprite_index = Spr_Carl_down;
+	/// @DnDArgument : "spriteind" "Spr_Carl_walking_down"
+	/// @DnDSaveInfo : "spriteind" "Spr_Carl_walking_down"
+	sprite_index = Spr_Carl_walking_down;
 	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
@@ -121,9 +121,9 @@ var l75AB61BF_0;l75AB61BF_0 = keyboard_check(vk_right);if (!l75AB61BF_0){	//
 		/// @DnDVersion : 1
 		/// @DnDHash : 4200FCB7
 		/// @DnDParent : 3B24B2CA
-		/// @DnDArgument : "spriteind" "Spr_Carl_right_stop"
-		/// @DnDSaveInfo : "spriteind" "Spr_Carl_right_stop"
-		sprite_index = Spr_Carl_right_stop;
+		/// @DnDArgument : "spriteind" "Spr_Carl_right"
+		/// @DnDSaveInfo : "spriteind" "Spr_Carl_right"
+		sprite_index = Spr_Carl_right;
 		image_index = 0;}}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
@@ -141,9 +141,9 @@ var l4226AF5B_0;l4226AF5B_0 = keyboard_check(vk_left);if (!l4226AF5B_0){	///
 		/// @DnDVersion : 1
 		/// @DnDHash : 083E5AC0
 		/// @DnDParent : 24DA74E8
-		/// @DnDArgument : "spriteind" "Spr_Carl_left_stop"
-		/// @DnDSaveInfo : "spriteind" "Spr_Carl_left_stop"
-		sprite_index = Spr_Carl_left_stop;
+		/// @DnDArgument : "spriteind" "Spr_Carl_left"
+		/// @DnDSaveInfo : "spriteind" "Spr_Carl_left"
+		sprite_index = Spr_Carl_left;
 		image_index = 0;}}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
